@@ -70,15 +70,15 @@ If you like this project, please consider giving it a ⭐️ on [GitHub](https:/
 
 ## Stargazers ❤️
 <div align='left'>
-
-[![Stargazers repo roster for @ruchikakengal/WebDevIn100_Days](https://reporoster.com/stars/dark/rutikakengal/100DAYS_OF_100WEBPROJECTS)](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/stargazers)
+ 
+[![Forks](https://img.shields.io/github/forks/rutikakengal/100DAYS_OF_100WEBPROJECTS?style=for-the-badge)](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/network/members)
 
 
 </div>
 
 ## Forkers ❤️
 
-[![Forkers repo roster for @ruchikakengal/WebDevIn100_Days](https://reporoster.com/forks/dark/rutikakengal/100DAYS_OF_100WEBPROJECTS)](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/network/members)
+[![Forks](https://img.shields.io/github/forks/rutikakengal/100DAYS_OF_100WEBPROJECTS?style=social)](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/network/members)
 
 
 <!--line-->
